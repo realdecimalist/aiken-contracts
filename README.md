@@ -2,9 +2,9 @@
 
 **Modified Vesting Contract**
 
-This code represents a simple version of a smart contract for a vesting mechanism, which is commonly used in financial and investment situations.
+This code represents a simple version of a smart contract for a vesting mechanism.
 
-In essence, the contract locks up a certain amount of a cryptocurrency (in this case, ADA from the Cardano blockchain) and only allows it to be retrieved under certain conditions.
+The contract locks up a certain amount of ADA and only allows it to be retrieved under certain conditions.
 
 The smart contract is defined in two parts: on-chain code and off-chain code.
 
